@@ -1,0 +1,6 @@
+Para executar este guião , cujo objetivo é fazer o parsing dos dados , basta correr o comando make e depois correr os respetivos 
+executáveis (guiao1-exercicio1-1 , guiao1-exercicio1-2) .
+
+
+
+Nota: Este programa assume a existência de 3 ficheiros (repos, users e commits na pasta entradas)

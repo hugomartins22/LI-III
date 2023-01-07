@@ -1,0 +1,3 @@
+
+Para executar basta fazer make e posteriormente correr o executável.
+Esta parte diz respeito ao armazenamento dos dados de forma eficiente em memória , bem como  a resolução das queries respetivas

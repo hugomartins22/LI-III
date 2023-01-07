@@ -1,0 +1,15 @@
+int menu (STATS stats1,COMMITS tabelacommit ,REPOS tabelarepo ,USERS tabelauser) ;
+void case10(WINDOW *win,int i,int j,COMMITS tabelacommit,USERS tabelauser) ;
+void case9(WINDOW *win,int i,int j,USERS tuser,COMMITS tabelacommit,REPOS tabelarepo,STATS stats1) ;
+void case8(WINDOW *win,int i,int j,REPOS tabelarepo,COMMITS tabelacommit) ;
+void case7(WINDOW *win,int i,int j,COMMITS tabelacommit,REPOS tabelarepo) ;
+void case6(WINDOW *win,int i,int j,USERS tabelauser,REPOS tabelarepo,COMMITS tabelacommit);
+int case5 (WINDOW *win,int i,int j,USERS users,COMMITS commits) ;
+int case4(WINDOW *win,int i,int j,STATS stats1) ;
+int case3(WINDOW *win,int i,int j,STATS stats1) ;
+int case2(WINDOW *win,int i,int j,STATS stats1) ;
+int case1(WINDOW *win,int i,int j,STATS stats1) ;
+void printnew(WINDOW *win,int i,int j,FILE *file ,int pos,int pages) ;
+void go_line (FILE *f , int pos ) ;
+int file_lines (FILE  *f);
+int auxwin(WINDOW *win , int py,int px) ;

@@ -1,0 +1,4 @@
+
+Nesta parte , era pedido para implementar um menu com funcionalidades para executar as respetivas queries.
+
+Assumindo a existência de ficheiros na pasta entrada basta fazer make e depois correr (./guiao-3) para guardar os dados em memoria e apresentar o menu interativo
